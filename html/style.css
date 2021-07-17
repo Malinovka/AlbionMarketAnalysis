@@ -1,0 +1,89 @@
+body{
+    background:#531405;
+    color: #ffedd3;
+}
+h2{
+    margin: 0;
+}
+
+.main {
+    max-width: fit-content;
+    padding: 20px;
+    margin: auto;
+    background: linear-gradient(165deg, #af5742, transparent 90%);
+    height: 90vh;
+    border: 2px black solid;
+    border-radius: 20px;
+}
+
+img{
+    height:100%
+}
+
+.headers {
+    text-align: center;
+    font-size: 11px;
+    color: #f5d4a7;
+    font-family: "Book Antiqua";
+    text-shadow: 1px 1px 1px black;
+    height: 15vh;
+    margin-bottom: 20px;
+    min-height: 80px;
+}
+
+.col-sm-12.col-md-6 {
+    font-size: 17px;
+    margin: 6;
+}
+
+input {
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+    padding: 7px;
+}
+
+
+table#marketorders {
+    height: 70%;
+    overflow: auto;
+    display: block;
+    border-collapse: collapse;
+    font-family: "Lucida Sans Unicode";
+    font-size: 14px;
+    border-radius: 7px;
+    background: #5314057a;
+}
+
+th {
+    padding: 4px 4px;
+    font-size: 18px;
+    color: #7b4539;
+    background: #eca342;
+}
+
+td {
+    padding: 5px 5px;
+}
+
+tr {
+    border-bottom: 1px solid #ae4c35;
+}
+
+.col-sm-12.col-md-5 {
+    margin: 5px;
+}
+
+
+div#marketorders_info {
+    color: #9a440c;
+}
+
+footer {
+    font-family: monospace;
+    color: #ffffff1f;
+    text-align: center;
+    position: relative;
+    top: 5px;
+}
