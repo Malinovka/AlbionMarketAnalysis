@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\koton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\koton\\.nuget\\packages"
+    ]
+  }
+}
